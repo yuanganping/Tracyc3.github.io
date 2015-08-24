@@ -1,2 +1,2 @@
 # Tracyc3.github.io
-my technical blog
+我的个人主页
