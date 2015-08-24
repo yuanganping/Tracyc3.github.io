@@ -1,3 +1,3 @@
 # Tracyc3.github.io
 我的个人主页
-<ygphomes.com>点击我
+<http://www.ygphomes.com>
