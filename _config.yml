@@ -1,0 +1,8 @@
+title: Tracyc3.GitHub.io
+description: my technical blog
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
